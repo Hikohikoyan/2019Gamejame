@@ -1,8 +1,2 @@
-SelfHealing\Assets\Resources\Image
-SelfHealing\Assets\Resources\Audio
-SelfHealing\Assets\Resources\Animation
-SelfHealing\Assets\Resources\Material
-SelfHealing\Assets\Resources\Perfabs
-SelfHealing\Assets\Shader
-SelfHealing\Assets\Scenes
-SelfHealing\Assets\Scripts
+SelfHealing/Assets/Resources/Image/*
+SelfHealing/Assets/Resources/Audio/*
